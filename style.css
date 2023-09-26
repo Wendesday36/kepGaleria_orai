@@ -1,0 +1,14 @@
+body {
+    background: beige;
+    margin: 0;
+
+    padding: 0;
+}
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
